@@ -152,7 +152,7 @@ const ServiceSection = () => {
                     className="absolute inset-0 w-[85%] mt-15 mx-auto h-35 object-cover"
                     onError={(e) => {
                       e.currentTarget.onerror = null;
-                      e.currentTarget.src = "/logo1.png"; // fallback logo
+                      e.currentTarget.src = "/logo 1.png"; // fallback logo
                     }}
                   />
 
